@@ -1,0 +1,5 @@
+div {
+    display: flex;
+    column-rule: 0cap;
+    max-width: 100px;
+}
